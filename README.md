@@ -2,9 +2,9 @@
 This is a boundary condition written based on foam-extend-4.1.
 
 ## Math equation
-$$ U = 2V_m\left({1 - ({r \over R})^2 }\right) $$
+$$ U = 2 C_m V_m\left({1 - ({r \over R})^{1 \over m} }\right) $$
 
-Which $R$ and $V_m$ are inlet radius and mean velocity, respectively.
+Which $R$, $V_m$, and $m$ are inlet radius, mean velocity, and index, respectively.
 
 ## Installation
 It is working on foam-extend-4.1
