@@ -4,7 +4,7 @@ This is a boundary condition written based on foam-extend-4.1.
 ## Math equation
 $$ U = 2 C_m V_m\left({1 - ({r \over R})^{1 \over m} }\right) $$
 
-$$ C_m = ({1 + {1 \over m}})({2 + {1 \over m}})$$
+$$ C_m = {({1 + {1 \over m}})({2 + {1 \over m}})} \over 2 $$
 
 Which $R$, $V_m$, and $m$ are inlet radius, mean velocity, and index, respectively.
 
