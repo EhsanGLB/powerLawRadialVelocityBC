@@ -32,7 +32,7 @@ Description
     @verbatim
         inlet
         {
-            type                    parabolicRadialVelocityBC4NF;
+            type                    powerLawRadialVelocityBC;
             meanValue               12.3;
             radius                  0.25;
             m                       6;
