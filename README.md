@@ -1,7 +1,7 @@
 # powerLawRadialVelocityBC
 This is a boundary condition for power law radial velocity at inlet written based on foam-extend-4.1.
 
-## Math equation
+## Mathematical Relationships
 $$ U = 2 C_m V_m\left({1 - ({r \over R})^{1 \over m} }\right) $$
 
 $$ C_m = {{({1 + {1 \over m}})({2 + {1 \over m}})} \over 2} $$
