@@ -15,6 +15,10 @@ git clone https://github.com/EhsanGLB/powerLawRadialVelocityBC.git
 cd powerLawRadialVelocityBC/powerLawRadialVelocityBC
 wmake libso
 cd ../case
+```
+
+## Getting Started
+```bash
 blockMesh
 simpleFoam
 ```
